@@ -82,3 +82,8 @@ Games with high playtime correlate strongly with positive reviews ({playtime_rev
 | **Matplotlib** | Static visualizations | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-11557c?logo=python) |
 | **Seaborn** | Statistical data visualization | ![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-3776AB?logo=python) |
 | **Plotly** | Interactive visualizations | ![Plotly](https://img.shields.io/badge/Plotly-5.14.1-3F4F75?logo=plotly) |
+
+---
+
+# Visual and Code Overview
+-<a href="https://github.com/Donovandonz/Python--steam-game-analysis/blob/main/Steam_games_analysis.ipynb">Steam-games-code-and-visual</a>
