@@ -137,12 +137,12 @@ Bottom 90%:   ███████ (11%)
 
 Playtime Distribution:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-25% of games:  < 2.4 hours
-50% of games:  < 5.2 hours
-75% of games:  < 13.6 hours
-95% of games:  < 87.3 hours
-Top 5% games:  > 87.3 hours
-Top 1% games:  > 284 hours
+- 25% of games:  < 2.4 hours
+- 50% of games:  < 5.2 hours
+- 75% of games:  < 13.6 hours
+- 95% of games:  < 87.3 hours
+- Top 5% games:  > 87.3 hours
+- Top 1% games:  > 284 hours
 
 ---
 
