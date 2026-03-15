@@ -148,13 +148,16 @@ Top 1% games:  > 284 hours
 
 ## 🔍 Key Finding #3: Pricing Strategy Insights
 
-Price Tiers Analysis:
+**Price vs. Reviews Correlation:** r = -0.12 (Weak negative)
 
-Price Tier	Range	% of Games	Avg Reviews	Success Rate
-Free/Budget	$0-0.99	25%	8,234	Medium
-Low	$1-7.19	25%	5,678	Medium
-Medium	$7.20-17.99	25%	12,456	High
-Premium	$18+	25%	22,891	Very High
+**Price Tiers Analysis:**
+
+| Price Tier | Range | % of Games | Avg Reviews | Success Rate |
+|------------|-------|------------|-------------|--------------|
+| Free/Budget | $0-0.99 | 25% | 8,234 | Medium |
+| Low | $1-7.19 | 25% | 5,678 | Medium |
+| Medium | $7.20-17.99 | 25% | 12,456 | High |
+| Premium | $18+ | 25% | 22,891 | Very High |
 
 ---
 
@@ -162,13 +165,13 @@ Premium	$18+	25%	22,891	Very High
 
 Concurrent User Distribution:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-25% of games: 0 CCU (completely dead)
-50% of games: ≤5 CCU (basically dead)
-75% of games: ≤45 CCU (small community)
-95% of games: ≤1,247 CCU (healthy)
-Top 5% games: >1,247 CCU (successful)
-Top 1% games: >18,943 CCU (hits)
-Top 0.1% games: >100,000 CCU (phenomena)
+- 25% of games: 0 CCU (completely dead)
+- 50% of games: ≤5 CCU (basically dead)
+- 75% of games: ≤45 CCU (small community)
+- 95% of games: ≤1,247 CCU (healthy)
+- Top 5% games: >1,247 CCU (successful)
+- Top 1% games: >18,943 CCU (hits)
+- Top 0.1% games: >100,000 CCU (phenomena)
 
 ---
 
@@ -1340,3 +1343,5 @@ Paid Game:
 
 ---
 
+# Visual and Code Overview👇
+-<a href="https://github.com/Donovandonz/Python--steam-game-analysis/blob/main/Steam_games_analysis.ipynb">Steam-games-code-and-visual</a>
